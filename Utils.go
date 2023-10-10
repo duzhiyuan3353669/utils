@@ -7,5 +7,5 @@ func Print(s string) {
 }
 
 func P(i int) {
-	fmt.Println(t)
+	fmt.Println(i)
 }
