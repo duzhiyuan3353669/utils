@@ -8,4 +8,7 @@ func Print(s string) {
 
 func P(i int) {
 	fmt.Println(i)
+	fmt.Println(i)
+	fmt.Println(i)
+	fmt.Println(i)
 }
